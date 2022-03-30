@@ -70,7 +70,7 @@ message BenchmarkMessage {
 每个结果均为三次测试的平均值，以此来保证准确性
 
 
-![](https://github.com/leoqin10/benchmark_grpc/blob/main/grpc/image/%E5%A4%9A%E8%BF%9E%E6%8E%A5cpu%E3%80%81%E5%86%85%E5%AD%98%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
+![](grpc/image/多连接cpu、内存折线图.png)
 
 ![](https://github.com/leoqin10/benchmark_grpc/blob/main/grpc/image/%E5%B9%B3%E5%9D%87%E5%BB%B6%E8%BF%9F.png)
 
